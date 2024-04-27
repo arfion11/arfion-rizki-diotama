@@ -1,4 +1,4 @@
-Arfion Rizki Diotam (6706220072)
+Arfion Rizki Diotama (6706220072)
 
 Ganendra Kalla Radhya (6706220122)
 
