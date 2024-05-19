@@ -1,0 +1,52 @@
+[
+    {
+        "nama": "Badak",
+        "namaLatin": "Rhinocerotidae",
+        "imageId": "badak"
+    },
+    {
+        "nama": "Kudanil",
+        "namaLatin": "Hippopotamus amphibius",
+        "imageId": "kudanil"
+    },
+    {
+        "nama": "Hiu",
+        "namaLatin": "Selachimorpha",
+        "imageId": "hiu"
+    },
+    {
+        "nama": "Beruang",
+        "namaLatin": "Ursidae",
+        "imageId": "beruang"
+    },
+    {
+        "nama": "Ular",
+        "namaLatin": "Serpentes",
+        "imageId": "ular"
+    },
+    {
+        "nama": "Komodo",
+        "namaLatin": "Varanus komodoensis",
+        "imageId": "komodo"
+    },
+    {
+        "nama": "Buaya",
+        "namaLatin": "Crocodylidae",
+        "imageId": "bauaya"
+    },
+    {
+        "nama": "Serigala",
+        "namaLatin": "Canis lupus",
+        "imageId": "serigala"
+    },
+    {
+        "nama": "Singa",
+        "namaLatin": "Panthera leo",
+        "imageId": "singa"
+    },
+    {
+        "nama": "Harimau",
+        "namaLatin": "Panthera tigris",
+        "imageId": "harimau"
+    }
+]
